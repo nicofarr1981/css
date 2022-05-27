@@ -1,0 +1,24 @@
+h1 {
+    color: blueviolet;
+    font-weight: 600;
+    font-size: 72px;
+}
+
+#p {
+    color: black;
+    font-size: 20px;
+}
+
+#mando {
+    color: pink;
+    font-size: 20px;
+}
+
+#grogu {
+    color: turquoise;
+    font-size: 20px;
+}
+
+.tacos {
+    font-style: italic;
+}
